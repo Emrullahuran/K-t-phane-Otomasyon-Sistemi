@@ -1,0 +1,20 @@
+1001	Sefiller	Victor Hugo	3
+1002	Suc ve Ceza	Fyodor Dostoyevski	4
+1003	Simyaci	Paulo Coelho	10
+1004	Satranc	Stefan Zweig	2
+1005	Kucuk Prens	Antoine de Saint-Exupery	1
+1006	1984	George Orwell	5
+1007	Hayvan Ciftligi	George Orwell	3
+1008	Dönüþüm	Franz Kafka	2
+1009	Bilinmeyen Bir Kadinin Mektubu	Stefan Zweig	4
+1010	Insan Ne Ile Yasar	Lev Tolstoy	3
+1011	Beyaz Geceler	Fyodor Dostoyevski	2
+1012	Yeraltindan Notlar	Fyodor Dostoyevski	5
+1013	Boyle Buyurdu Zerdust	Friedrich Nietzsche	3
+1014	Insanin Anlam Arayisi	Viktor E. Frankl	2
+1015	Zengin Baba Yoksul Baba	Robert Kiyosaki	4
+1016	Dusunmenin Gucu	James Allen	3
+1017	Alis Harikalar Diyarinda	Lewis Carroll	2
+1018	Seker Portakali	Jose Mauro de Vasconcelos	5
+1019	Uc Silahsorler	Alexandre Dumas	3
+1020	Yabanci	Albert Camus	2
